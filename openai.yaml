@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Mentor Portrait"
+  short_description: "Generate and refine formal academic mentor portraits"
+  default_prompt: "Create a formal academic mentor portrait from a reference image"
